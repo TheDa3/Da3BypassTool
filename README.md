@@ -1,6 +1,7 @@
 # Da3BypassTool – iCloud Bypass Made Simple 🔓
 
 ![Platform: iOS](https://img.shields.io/badge/platform-iOS-blue)
+![Platform: MacOS](https://img.shields.io/badge/platform-MacOS-red)
 ![Status: Active](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Introduction & How It Works 💡
