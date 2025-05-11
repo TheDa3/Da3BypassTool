@@ -1,31 +1,7 @@
 # Da3BypassTool – iCloud Bypass Made Simple 🔓
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform: iOS](https://img.shields.io/badge/platform-iOS-blue)
 ![Status: Active](https://img.shields.io/badge/status-active-brightgreen)
-
-## 📃 Table of Contents
-
-* [Introduction & How It Works 💡](#introduction--how-it-works-)
-* [🔑 Key Features](#-key-features)
-  * [🚀 Jailbreak Method](#-jailbreak-method)
-  * [📀 RAMDisk Method](#-ramdisk-method)
-  * [🖓 Screen Time Removal](#-screen-time-removal)
-  * [📱 MDM Bypass](#-mdm-bypass)
-  * [🧹 Open Menu Functions](#-open-menu-functions)
-  * [🔧 More Features](#-more-features)
-
-* [🆕 Coming Soon](#-coming-soon)
-* [📢 Stay Updated & Download](#-stay-updated--download)
-* [⚠️ Precautions and Warnings](#-precautions-and-warnings)
-  * [⚖️ Legal Considerations](#-legal-considerations)
-  * [🛡️ Security Risks](#-security-risks)
-  * [📜 Warranty Void](#-warranty-void)
-  * [📀 Data Loss](#-data-loss)
-  * [🌱 Ethical Use](#-ethical-use)
-
-* [🤝 Contributing](#-contributing)
-* [⚠️ Final Disclaimer](#-final-disclaimer)
 
 ## Introduction & How It Works 💡
 
@@ -68,6 +44,10 @@ Boot into RAMDisk mode to perform tethered iCloud bypass:
 * **Remove Apple ID** – Requires jailbreak. Removes the logged-in Apple ID (**does not disable FMi**).
 * **Unlock SIM** – Fix “SIM Not Supported” screen (requires jailbreak).
 * **Block OTA** – Automatically block ota update and reset (no jailbreak required) and support all apple devices.
+
+### 💻 MacOS Functions
+
+* **Read MacOS Info** – Get the Apple ID and other useful information from a locked MacBook
 
 ### 🔧 More Features
 
