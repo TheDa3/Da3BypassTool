@@ -5,7 +5,7 @@
 
 ## Introduction & How It Works 💡
 
-**Da3BypassTool** is a **free iCloud bypass utility** designed for jailbroken iPhones. It leverages **Jailbreak** and **RAMDisk** methods to help you regain access to locked devices, remove Screen Time restrictions, bypass MDM profiles, and more.
+**Da3BypassTool** is a **free iCloud bypass utility for Windows** designed for jailbroken iPhones. It leverages **Jailbreak** and **RAMDisk** methods to help you regain access to locked devices, remove Screen Time restrictions, bypass MDM profiles, and more.
 
 This tool is intended for **educational and ethical use only**, and should only be used on **devices you own or have permission to access**.
 
