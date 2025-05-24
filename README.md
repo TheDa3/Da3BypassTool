@@ -1,121 +1,48 @@
-# Da3BypassTool – iCloud Bypass Made Simple 🔓
+Da3BypassTool is a free iCloud bypass tool that uses jailbreak and RAMDisk methods. Here's what the tool can do:
 
-![Platform: IOS](https://img.shields.io/badge/platform-IOS-blue)
-![Status: Active](https://img.shields.io/badge/status-active-brightgreen)
+Jailbreak Method:
+- Backup Activation Files - Save activation data from unavailable or disabled devices.
+- Erase Device Without Updating iOS - Wipe the device without upgrading to a newer iOS version.
+- Activate Device - Activate your device using existing backup files or generate new ones for untethered activation.
+- Activate Broken Baseband - Skip setup on devices with broken baseband.
 
-## Introduction & How It Works 💡
+RAMDisk Method:
+Boot your device into RAMDisk mode to:
+- Backup Activation Files - Save activation data from unavailable or disabled devices.
+- Erase Device Without Updating iOS - Wipe the device without upgrading iOS.
+- Activate Device - Use or generate activation files to bypass iCloud with a tethered method.
 
-**Da3BypassTool** is a **free iCloud bypass utility for Windows** designed for jailbroken iPhones. It leverages **Jailbreak** and **RAMDisk** methods to help you regain access to locked devices, remove Screen Time restrictions, bypass MDM profiles, and more.
+Screen Time Removal:
+- Remove Screen Time (No Jailbreak) - Permanently removes Screen Time passcode without jailbreaking. Works on all device models.
+- Remove Screen Time (With Jailbreak) - Permanently removes Screen Time using a jailbreak.
 
-This tool is intended for **educational and ethical use only**, and should only be used on **devices you own or have permission to access**.
+MDM Bypass:
+- Remove MDM (No Jailbreak) - Removes Mobile Device Management (MDM) lock without jailbreak. Works on all device models, but not permanently—do not erase the device afterward.
+- Remove MDM (With Jailbreak) - Removes MDM using jailbreak. Also not permanent.
 
----
+Open Menu:
+- FMi Off - Automatically disables Find My iPhone on Open Menu devices. Supports all models without jailbreak. Just click and wait.
+- Remove Apple ID - Requires jailbreak. Removes the logged-in Apple ID (does not disable FMi).
+- Unlock SIM - Bypasses the "SIM Not Supported" screen. Requires jailbreak.
 
-## 🔑 Key Features
+More Features:
+- Enable/Disable Baseband
+- Enable/Disable AssistiveTouch
+- Fix iCloud service and notification issues
+- Backup iCloud info (Apple ID, phone number, full name, etc.)
+- Fake iOS Version
+- Enable/Disable Force Airplane Mode
 
-### 🚀 Jailbreak Method
+Coming Soon:
+- Jailbreak your device
+- Change serial number
+- Activate device with a changed serial number
 
-* **Backup Activation Files** – Save activation data from disabled or unavailable devices.
-* **Erase Without iOS Update** – Factory reset the device without updating to a newer iOS version.
-* **Activate Device** – Use saved or generated activation files(with or without SN change) for **untethered activation**.
-* **Activate Broken Baseband** – Bypass setup screens on devices with broken basebands.
+📢 Join our Telegram group for support and updates:
+https://t.me/da3bypasstool
 
-### 📀 RAMDisk Method
+📥 Download the tool, RAMDisk file, or Purple Mode file for your device here:
+https://da3bypasstool.web.app/
 
-Boot into RAMDisk mode to perform tethered iCloud bypass:
-
-* **Backup Activation Files** – Save data from locked or disabled devices.
-* **Erase Without iOS Update** – Format without forcing an iOS upgrade.
-* **Activate Device** – Use or generate activation files for **tethered bypass**.
-
-### 🖓 Screen Time Removal
-
-* **No Jailbreak** – Remove Screen Time passcode **permanently** on all devices (no jailbreak required).
-* **With Jailbreak** – Screen Time removal using jailbreak (permanent).
-
-### 📱 MDM Bypass
-
-* **No Jailbreak** – Bypass MDM without jailbreak on all devices (do **not erase device** afterward).
-* **With Jailbreak** – Bypass MDM using jailbreak (not permanent).
-
-### 🧹 Open Menu Functions
-
-* **FMi Off** – Automatically disables Find My iPhone (no jailbreak required) on all apple devices.
-* **Remove Apple ID** – Requires jailbreak. Removes the logged-in Apple ID (**does not disable FMi**).
-* **Unlock SIM** – Fix “SIM Not Supported” screen (requires jailbreak).
-* **Block OTA** – Automatically block ota update and reset (no jailbreak required) and support all apple devices.
-
-### 💻 MacOS Functions
-
-* **Read MacOS Info** – Get the Apple ID and other useful information from a locked MacBook
-
-### 🔧 More Features
-
-* Enable/Disable Baseband
-* Enable/Disable AssistiveTouch
-* Fix iCloud service and push notification issues
-* Backup Apple ID info (email, phone number, name, etc.)
-* Fake iOS Version
-* Tethered Bypass
-* Change SIM Status name
-
----
-
-## 🆕 Coming Soon
-
-* 📲 FMI OFF for open menu devices
-* Change device serial number
-* Jailbreak for ios 15-18 using palera1n
-
----
-
-## 📢 Stay Updated & Download
-
-* **Telegram Group for Support & Updates**:
-  👉 [https://t.me/da3bypasstool](https://t.me/da3bypasstool)
-
-* **Official Download Page**:
-  📅 [https://da3bypasstool.web.app/](https://da3bypasstool.web.app/)
-
----
-
-## ⚠️ Precautions and Warnings
-
-### ⚖️ Legal Considerations
-
-Da3BypassTool is meant for **educational and research purposes only**.
-**Unauthorized use** may **violate laws** and **Apple’s Terms of Service**. Use it only on devices you **own or have explicit permission to unlock**.
-
-### 🛡️ Security Risks
-
-Exploiting Apple’s security (like using Checkm8) can expose your device to **potential threats**. Use only on **trusted devices**, and be cautious of **malware or tampering**.
-
-### 📜 Warranty Void
-
-This tool **may void your Apple warranty**. Apple can deny service for modified or tampered devices.
-
-### 📀 Data Loss
-
-There is a **risk of data corruption or loss**. Always **back up** your device before proceeding.
-
-### 🌱 Ethical Use
-
-Only use Da3BypassTool on **your own** or **authorized devices**.
-**Never use it on stolen or lost property.**
-
----
-
-## 🤝 Contributing
-
-We welcome help improving **Da3BypassTool**.
-
-* bug Report bugs or request features via issues
-* Fork and submit pull requests
-
----
-
-## ⚠️ Final Disclaimer
-
-This tool is for **educational purposes and ethical hacking only**.
-**Misuse can lead to legal consequences**.
-Always follow **your local laws** and **Apple’s terms of service**. 🌍
+I'm always open to feedback to improve the tool and add new functionality.
+Thanks!
